@@ -8,3 +8,4 @@ public class ArrayInput{
     System.out.println(Arrays.toString(arr));
   }
 }
+
